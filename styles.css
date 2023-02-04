@@ -77,35 +77,11 @@ body {
   font-size: 50px;
 }
 
-#first {
-  border-top: none;
-  border-left: none;
-}
-#second {
-  border-top: none;
-}
-#third {
-  border-right: none;
-  border-top: none;
-}
-#fourth {
-  border-left: none;
-}
-#sixth {
-  border-right: none;
-}
-#seventh {
-  border-bottom: none;
-  border-left: none;
-}
-#eighth {
-  border-bottom: none;
-}
-#ninth {
-  border-bottom: none;
-  border-right: none;
-}
-
 #x-button {
   background-color: red;
+}
+
+.announcer {
+  text-align: center;
+  font-size: 30px;
 }
